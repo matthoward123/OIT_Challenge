@@ -14,7 +14,7 @@ A few notes:
 2. Should there happen to be any rule of creating numerals broken -- although the extent to which I conducted tests leads me to conclude that such is not likely -- It will almost certainly be in a case where the ambiguity of the documentation forced me to make my own inference regarding the rules. If this be the case, I would like to note that, had I not been under a time constraint, I would have had the luxury of asking the individual who provided the specs for additional clarification.
 
 3. Had there been more time allotted me, I would have liked to test my code some more. I also would have liked to add my own input validation. With that said, there are a few assumptations attached to input (with the exception of the easier-to-implement input validations for a menuChoice or something like that):
-  1. When inputting a roman numeral, it is assumed that you will use all-caps, and that you will input a valid/real   Roman Numeral.
-  2. When inputting a modern number, it is assumed that you will input a single whole number, and nothing else.
+  - When inputting a roman numeral, it is assumed that you will use all-caps, and that you will input a valid/real   Roman Numeral.
+  - When inputting a modern number, it is assumed that you will input a single whole number, and nothing else.
 
 4. This program is designed to run on the command line.
