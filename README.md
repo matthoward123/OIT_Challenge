@@ -3,7 +3,9 @@
 I don't have any experience in compiling in Windows (without an IDE), but 
 the file "oitChallenge.cpp" in this repo is all that is needed to compile challenge
 solution. So long as you have the tools to compile C++ files for windows,
-compiling should be no issue.
+compiling should be no issue. Also, I included "main" which is the compiled version of my source code, and 
+it runs fine in Ubuntu, but I have trouble doing so in Windows. Just to be safe, you'll probably want to go
+ahead and compile the source code provided to create a runnable windows exe.
 
 It took several tries to upload my source code to where GitHub would interpret my tabs properly. If for some reason the source code does not compile properly, please let me know, and I'll just add the source code from before fixing the formatting (the tabs were originally being interpreted by GitHub as being way too large) that should work/compile properly (it will just have tabs that are too large).
 
