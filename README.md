@@ -5,6 +5,8 @@ the file "oitChallenge.cpp" in this repo is all that is needed to compile challe
 solution. So long as you have the tools to compile C++ files for windows,
 compiling should be no issue.
 
+It took several tries to upload my source code to where GitHub would interpret my tabs properly. If for some reason the source code does not compile properly, please let me know, and I'll just add the source code from before fixing the formatting (the tabs were originally being interpreted by GitHub as being way too large) that should work/compile properly (it will just have tabs that are too large).
+
 I worked on solving this challenge for approximately 3 hours 37 minutes. This does not include the time spent to post my work to github, or editing this README.
 
 A few notes:
