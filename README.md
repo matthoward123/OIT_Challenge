@@ -14,3 +14,5 @@ A few notes:
 2. Should there happen to be any rule of creating numerals broken -- although the extent to which I conducted tests leads me to conclude that such is not likely -- It will almost certainly be in a case where the ambiguity of the documentation forced me to make my own inference regarding the rules. If this be the case, I would like to note that, had I not been under a time constraint, I would have had the luxury of asking the individual who provided the specs for additional clarification.
 
 3. Had there been more time allotted me, I would have liked to test my code some more.
+
+4. This program is designed to run on the command line.
